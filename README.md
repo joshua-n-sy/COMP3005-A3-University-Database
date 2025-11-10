@@ -24,10 +24,15 @@ The application connects to a PostgreSQL database and performs CRUD operations o
 
 ### Setup Steps
 1. Open the project in your IDE.
-2. Ensure PostgreSQL is running.
-3. Run the provided SQL file to create and populate the database.
-4. Update the database credentials in `StudentDatabaseConnection.java` if necessary.
-5. Build and run the program using Maven:
+2. Navigate to the university directory:  
+   ```bash
+   cd university
+3. Install dependencies using Maven:
+   ```bash
+   mvn clean install
+4. Connect to PostgreSQL and run the SQL file.
+5. Build and run the application using Maven:
+   ```bash
    mvn clean compile
    mvn exec:java
 
