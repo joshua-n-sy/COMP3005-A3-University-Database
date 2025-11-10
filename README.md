@@ -36,3 +36,7 @@ Name: Joshua Sy
 Course: COMP3005A – Database Management Systems  
 Institution: Carleton University  
 Date: November 9, 2025
+
+## Video Demonstration
+A short video demonstration of the project can be viewed here:
+[Watch on Youtube](https://youtu.be/5H8OYGPmJ2Y)
